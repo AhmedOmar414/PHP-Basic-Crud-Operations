@@ -1,0 +1,50 @@
+.container {
+    width: 75%;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+th,
+td {
+    border-bottom: 1.5px solid #ddd;
+    text-align: center;
+    padding: 7px;
+    border: 1.5px solid #ddd;
+    font-family: sans-serif;
+}
+
+.but {
+    padding: 12px 30px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.but1 {
+    background-color: #4CAF50;
+}
+
+.but2 {
+    background-color: #008CBA;
+}
+
+.butdef {
+    background-color: red;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+}

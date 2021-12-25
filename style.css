@@ -1,0 +1,38 @@
+.form {
+    margin: auto;
+    width: 600px;
+    background-color: #f2f2f2;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding: 40px 15px 40px 15px;
+    margin-top: 100px;
+}
+
+input {
+    width: 75%;
+    height: 40px;
+    margin: 7px;
+    border: 2px solid #bbbcbf;
+    border-radius: 7px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+input::placeholder {
+    font-size: 15px;
+    color: #bdbdbf;
+}
+
+label {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #6f6f70;
+}
+
+input[type=submit] {
+    width: 25%;
+    background-color: #3849b5;
+    border-color: #3849b5;
+    color: white;
+}
